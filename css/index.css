@@ -16,3 +16,12 @@ p {
     height: 200px;
     border: 1px solid #555;
 }
+
+span {
+    background-color: yellowgreen;
+}
+
+img {
+    border: 5px solid #555;
+    box-shadow: 5 5 5 5 #fff;
+}
